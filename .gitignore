@@ -1,0 +1,17 @@
+# Python缓存
+__pycache__/
+*.py[cod]
+*.pyd
+*.so
+.pytest_cache/
+*.egg-info/
+dist/
+build/
+# 配置与输出文件
+config/
+output/
+*.log
+*.xlsx
+# 环境目录
+venv/
+env/
